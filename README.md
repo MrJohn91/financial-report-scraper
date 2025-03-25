@@ -55,9 +55,10 @@ The objective of this project was to:
 - Managed dynamic content extraction using Selenium.
 - Overcame inconsistent report structures using regex.
 
-## Next Steps/Improvements
+## 🏁 Next Steps/Improvements
 - Automate extraction at regular intervals.
-- Improve regex for better classification.
+- Improve error handling and logging.
 - Expand to additional companies.
+- Optimize performance for large data sets.
 
 
