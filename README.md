@@ -1,6 +1,6 @@
-📊 Financial Report Scraper
+# 📊 Financial Report Scraper
 
-🚀 Overview
+## Overview
 
 This project is a web scraper designed to extract quarterly and annual financial reports from the press release feeds of three companies: Acousort, Carlsberg, and Stockwik. The scraper classifies and organizes the reports based on the correct quarter and year.
 
