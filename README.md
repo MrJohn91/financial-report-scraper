@@ -33,8 +33,8 @@ The objective of this project was to:
 - Regex used to isolate reports related to financial statements.
 
 ### 3. **Stockwik**
-- Dynamic content required handling using Selenium.
-- Extracted press release links. Scrapes from pressmeddelanden (press releases)
+- Dynamic content required handling using Selenium. Scrapes from pressmeddelanden (press releases)
+- Extracted press release links. 
 - Filtered and classified using regex.
 
 ## Challenges
