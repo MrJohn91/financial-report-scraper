@@ -17,7 +17,7 @@ The objective of this project was to:
 - **Python** – Programming language
 - **BeautifulSoup** – HTML parsing and data extraction
 - **Requests** – HTTP requests to retrieve web content
-- **Selenium** – Handling dynamic web content and extraction
+- **Selenium** – Handling dynamic web content and data extraction
 - **Regex** – Pattern matching for extracting year and quarter
 - **Pandas** – Data manipulation and organization
 
