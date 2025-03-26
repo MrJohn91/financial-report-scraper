@@ -2,14 +2,14 @@
 
 ## Overview
 
-This project is a web scraper designed to extract quarterly and annual financial reports from the press release feeds of three companies: Acousort, Carlsberg, and Stockwik. The scraper classifies and organizes the reports based on the correct quarter and year.
+This project is a web scraper designed to extract quarterly and annual financial reports from the press release feeds of three companies: Acousort, Carlsberg, and Stockwik. The scraper classifies and organizes the reports based on the correct quarter and year, focusing specifically on the 2024 reports.
 
 ## Goal
 The objective of this project was to:
 
 - Extract press releases from each company's website.
 
-- Classify the reports as quarterly or annual.
+- Classify the finacial reports as quarterly or annual.
 
 - Assign the correct quarter and year to each report.
 
@@ -41,6 +41,7 @@ The objective of this project was to:
 ###  **Acousort**
 - No clear structure for identifying financial reports.
 - Had to rely on keyword matching and regex.
+- The website had a dynamic structure, and the PDF links were embedded in the page. Selenium was used to handle this dynamic content and extract the relevant links for 2024 reports.
 
 ### **Carlsberg**
 - Press releases and financial statements were mixed.
