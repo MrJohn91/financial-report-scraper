@@ -23,18 +23,18 @@ The objective of this project was to:
 
 ## Approach
 ### 1. **Acousort**
-- Scraped the press release section.
+- Scraped the press release section.  Scrapes from /investors/press-releases/
 - Filtered out relevant reports using keywords like `Q1`, `Q2`, `Q3`, `Q4`, `year-end`, and `financial`.
 - Used regex to classify the reports by quarter and year.
 
 ### 2. **Carlsberg**
-- Similar approach as Acousort.
+- Similar approach as Acousort. Scrapes from investor relations announcements
 - Extracted and filtered the press releases.
 - Regex used to isolate reports related to financial statements.
 
 ### 3. **Stockwik**
 - Dynamic content required handling using Selenium.
-- Extracted press release links.
+- Extracted press release links. Scrapes from pressmeddelanden (press releases)
 - Filtered and classified using regex.
 
 ## Challenges
